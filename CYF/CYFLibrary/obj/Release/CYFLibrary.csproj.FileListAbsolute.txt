@@ -1,0 +1,11 @@
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\CYFLibrary.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\CYFLibrary.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\Dapper.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\System.Data.SQLite.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\Dapper.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\bin\Release\System.Data.SQLite.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\obj\Release\CYFLibrary.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\obj\Release\CYFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\obj\Release\CYFLibrary.csproj.CopyComplete
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\obj\Release\CYFLibrary.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\CYFLibrary\obj\Release\CYFLibrary.pdb

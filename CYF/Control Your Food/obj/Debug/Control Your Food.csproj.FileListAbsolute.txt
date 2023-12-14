@@ -1,0 +1,83 @@
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\Control Your Food.exe.config
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.Form1.resources
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.Properties.Resources.resources
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.AddProdukt.resources
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.Menu.resources
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\CYFLibrary.dll
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\CYFLibrary.pdb
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control Your Food.csproj.CopyComplete
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\Dapper.dll
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\System.Data.SQLite.dll
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\Dapper.xml
+C:\Users\Janek\source\repos\Control Your Food\bin\Debug\System.Data.SQLite.xml
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.AddConsume.resources
+C:\Users\Janek\source\repos\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.ShoppingList.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\Control Your Food.exe.config
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\CYFLibrary.dll
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\Dapper.dll
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\System.Data.SQLite.dll
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\CYFLibrary.pdb
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\Dapper.xml
+C:\Users\Janek\source\repos\CYF\Control Your Food\bin\Debug\System.Data.SQLite.xml
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.AddConsume.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.AddProdukt.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.Form1.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.Menu.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.ShoppingList.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control_Your_Food.Properties.Resources.resources
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.CopyComplete
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\CYF\Control Your Food\obj\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Control Your Food.exe.config
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\CYFLibrary.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Dapper.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\System.Data.SQLite.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\CYFLibrary.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Dapper.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\System.Data.SQLite.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.AddProdukt.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.ShoppingList.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.Properties.Resources.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.csproj.CopyComplete
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.exe
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control Your Food.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.WelcomeForm.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.WyborDniaForm.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\bin\Debug\Database.db
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.EditCategoryForm.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.Delivery.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.MenuF.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.DeleteDelivery.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.EditProdukt.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.AddCategory.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.AddConsume2.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.SetMin.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Debug\Control_Your_Food.FormsFolder.EditBaseProdukt.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Eco.Handles.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Eco.Interfaces.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Eco.WPF.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\MDriven.Net.Http.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\WECPOFLogic.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\System.Buffers.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\System.Memory.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Debug\System.Numerics.Vectors.dll

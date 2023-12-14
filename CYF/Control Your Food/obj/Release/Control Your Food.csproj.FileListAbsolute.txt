@@ -1,0 +1,25 @@
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\bin\Database.db
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\Control Your Food.exe.config
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\Control Your Food.exe
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\Control Your Food.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\CYFLibrary.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\Dapper.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\System.Data.SQLite.dll
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\CYFLibrary.pdb
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\Dapper.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\bin\Release\System.Data.SQLite.xml
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.FormsFolder.AddConsume.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.AddProdukt.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.FormsFolder.EditProducts.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.WyborDniaForm.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.Menu.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.FormsFolder.ShoppingList.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.FormsFolder.TheSameProduct.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.FormsFolder.WelcomeForm.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control_Your_Food.Properties.Resources.resources
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.csproj.CopyComplete
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.exe
+C:\Users\Janek\source\repos\Praca-Inzynierska\CYF\Control Your Food\obj\Release\Control Your Food.pdb
