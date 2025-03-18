@@ -1,23 +1,23 @@
 Control Your Food - Windows Forms Application
-ENG
+
 
 How to open the application?
 
 The application can be launched in two ways:
 
-Using Visual Studio
+1. Using Visual Studio
 
-Navigate to the folder: CYF -> Control Your Food -> Control Your Food.sln
+* Navigate to the folder: CYF -> Control Your Food -> Control Your Food.sln
 
-Click on Control Your Food.sln, which will open the repository in Visual Studio.
+* Click on Control Your Food.sln, which will open the repository in Visual Studio.
 
-Without Visual Studio
+2. Without Visual Studio
 
-Navigate to the folder: CYF -> Control Your Food -> bin -> Debug -> Control Your Food.exe
+* Navigate to the folder: CYF -> Control Your Food -> bin -> Debug -> Control Your Food.exe
 
-Launch Control Your Food.exe, and the application will be ready to use.
+* Launch Control Your Food.exe, and the application will be ready to use.
 
-Assumptions
+Assumptions:
 
 Adding a product – when using the "Add Product" option, a product scheme is created and visible in the "Delivery" option.
 
